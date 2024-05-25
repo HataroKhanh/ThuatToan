@@ -11,7 +11,7 @@ int main(int argc, char const *argv[])
     for (int i = 1; i <= n; i++)
         cin >> a[i];
 
-    sudo pacman - S neovide for (int i = 1; i <= n; i++)
+    for (int i = 1; i <= n; i++)
     {
         l[i] = 1;
         for (int j = 1; j < i; j++)
