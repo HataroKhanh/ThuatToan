@@ -1,0 +1,24 @@
+# Ignore build directory
+build/
+
+# Ignore common build files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+*.class
+*.jar
+
+# Ignore editor specific files
+*.swp
+*~
+
+# Ignore cmake build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
